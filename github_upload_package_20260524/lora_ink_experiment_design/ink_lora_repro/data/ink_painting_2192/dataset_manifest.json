@@ -1,0 +1,13 @@
+{
+  "dataset_id": "zqman/Text2image-ChinesePainting",
+  "source_parquet": "C:\\Users\\38230\\.cache\\huggingface\\hub\\datasets--zqman--Text2image-ChinesePainting\\snapshots\\294889a17b46c2cefed66f7775d904cb7fdc66ee\\data\\train-00000-of-00001.parquet",
+  "split": "train",
+  "output_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\data\\ink_painting_2192",
+  "limit": 2192,
+  "val_size": 0,
+  "train_size": 2192,
+  "image_size": 512,
+  "seed": 42,
+  "project_root": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro",
+  "note": "Full cached dataset exported from Hugging Face parquet; all rows are assigned to metadata_train.jsonl."
+}

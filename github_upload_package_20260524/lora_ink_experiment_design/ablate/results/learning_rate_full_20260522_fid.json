@@ -1,0 +1,28 @@
+{
+  "reference_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\data\\ink_painting_2192\\images",
+  "reference_image_count": 2192,
+  "device": "cuda",
+  "rows": [
+    {
+      "learning_rate": "1e-4",
+      "learning_rate_value": 0.0001,
+      "generated_image_count": 3,
+      "fid": 342.1239626764119,
+      "image_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\ablations_full\\learning_rate_20260522\\lr_1e-4_r16_s1200_full\\samples"
+    },
+    {
+      "learning_rate": "2e-4",
+      "learning_rate_value": 0.0002,
+      "generated_image_count": 3,
+      "fid": 395.17857707139876,
+      "image_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\ablations_full\\learning_rate_20260522\\lr_2e-4_r16_s1200_full\\samples"
+    },
+    {
+      "learning_rate": "5e-4",
+      "learning_rate_value": 0.0005,
+      "generated_image_count": 3,
+      "fid": 386.7016297091956,
+      "image_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\ablations_full\\learning_rate_20260522\\lr_5e-4_r16_s1200_full\\samples"
+    }
+  ]
+}

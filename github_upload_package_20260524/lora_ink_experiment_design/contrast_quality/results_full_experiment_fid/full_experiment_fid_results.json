@@ -1,0 +1,64 @@
+{
+  "created_at": "2026-05-22T20:29:17",
+  "device": "cuda",
+  "reference_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\data\\ink_painting_2192\\images",
+  "reference_image_count": 2192,
+  "image_source": "samples",
+  "rows": [
+    {
+      "experiment": "paper_r08_s1200_6gb_full",
+      "config_path": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\configs\\experiments_full\\paper_r08_s1200_6gb_full.json",
+      "generated_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\experiments_full\\paper_r08_s1200_6gb_full\\samples",
+      "rank": 8,
+      "max_train_steps": 1200,
+      "learning_rate": 0.0002,
+      "generated_image_count": 3,
+      "fid": 365.7302277763432,
+      "fid_4dp": 365.7302
+    },
+    {
+      "experiment": "paper_r16_s600_6gb_full",
+      "config_path": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\configs\\experiments_full\\paper_r16_s600_6gb_full.json",
+      "generated_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\experiments_full\\paper_r16_s600_6gb_full\\samples",
+      "rank": 16,
+      "max_train_steps": 600,
+      "learning_rate": 0.0002,
+      "generated_image_count": 3,
+      "fid": 356.32279599246726,
+      "fid_4dp": 356.3228
+    },
+    {
+      "experiment": "paper_r16_s1200_6gb_full",
+      "config_path": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\configs\\experiments_full\\paper_r16_s1200_6gb_full.json",
+      "generated_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\experiments_full\\paper_r16_s1200_6gb_full\\samples",
+      "rank": 16,
+      "max_train_steps": 1200,
+      "learning_rate": 0.0002,
+      "generated_image_count": 3,
+      "fid": 401.70190403824665,
+      "fid_4dp": 401.7019
+    },
+    {
+      "experiment": "paper_r16_s1800_6gb_full",
+      "config_path": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\configs\\experiments_full\\paper_r16_s1800_6gb_full.json",
+      "generated_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\experiments_full\\paper_r16_s1800_6gb_full\\samples",
+      "rank": 16,
+      "max_train_steps": 1800,
+      "learning_rate": 0.0002,
+      "generated_image_count": 3,
+      "fid": 387.07757454322143,
+      "fid_4dp": 387.0776
+    },
+    {
+      "experiment": "paper_r32_s1200_6gb_full",
+      "config_path": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\configs\\experiments_full\\paper_r32_s1200_6gb_full.json",
+      "generated_dir": "C:\\Users\\38230\\Desktop\\1\\ink_lora_repro\\outputs\\experiments_full\\paper_r32_s1200_6gb_full\\samples",
+      "rank": 32,
+      "max_train_steps": 1200,
+      "learning_rate": 0.0002,
+      "generated_image_count": 3,
+      "fid": 503.0516836040274,
+      "fid_4dp": 503.0517
+    }
+  ]
+}
